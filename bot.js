@@ -42,8 +42,8 @@ global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
 global.botname = 'ZIM BOT V4'
 global.ownernma = '𝐄νιℓ' //owner name
-global.packname = 'Kaushalya ❤️' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.packname = 'Kaushalya ' //sticker package name
+global.author = '❤️' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -73,8 +73,8 @@ global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
     success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    admin: '*This feature Is Only For Admin U Mf!*',
+    botAdmin: '*Make Me Admin! U Mf!*',
     owner: '*this feature is only for Kaushalya*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
